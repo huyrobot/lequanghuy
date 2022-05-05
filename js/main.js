@@ -26,15 +26,6 @@ $(window).on('load', function() {
 	/*------------------
 		Navigation
 	--------------------*/
-	$("#menu-canvas-show").on('click', function () {
-		$('.offcanvas-menu-wrapper').fadeIn(200, function () {
-			$('.offcanvas-menu-wrapper').addClass('active');
-		}).css("display", "flex");
-	});
-	$("#menu-canvas-close").on('click', function () {
-		$('.offcanvas-menu-wrapper').removeClass('active').delay(400);
-		$('.offcanvas-menu-wrapper').fadeOut(200);
-	});
 	
 
 	/*------------------
@@ -81,7 +72,7 @@ $(window).on('load', function() {
 		animateIn: 'fadeIn',
 		items: 1,
 		autoplay:true,
-		autoplayTimeout:20000,
+		autoplayTimeout:220000,
 		smartSpeed: 1000,
 	});
 
