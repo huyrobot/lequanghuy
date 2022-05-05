@@ -1291,15 +1291,25 @@ ul, ol {
 	.a1{
 		height: 120%;
 	}
+	.a3{
+		height: 120%;
+	}
+	.a4{
+		height: 120%;
+	}
 }
 @media (max-width: 768px) {	
-	.block2{
-		height: 250px !important;
-	}
+	
 	.noinfo{
 		font-size: larger;
 	}
 	.a1{
+		height: 120%;
+	}
+	.a3{
+		height: 120%;
+	}
+	.a4{
 		height: 120%;
 	}
 }
@@ -1307,13 +1317,17 @@ ul, ol {
 	.block2{
 		height: 250px !important;
 	}
-	.block3{
-		height: 150px !important;
-	}
+	
 	.hero-text h2 {
 		font-size: 60px;
 	}
 	.a1{
+		height: 120%;
+	}
+	.a3{
+		height: 120%;
+	}
+	.a4{
 		height: 120%;
 	}
 }
@@ -1336,6 +1350,12 @@ ul, ol {
 		margin-right: 2.5%;
 	}
 	.a1{
+		height: 120%;
+	}
+	.a3{
+		height: 120%;
+	}
+	.a4{
 		height: 120%;
 	}
 	
