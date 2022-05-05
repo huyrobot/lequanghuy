@@ -72,7 +72,7 @@ $(window).on('load', function() {
 		animateIn: 'fadeIn',
 		items: 1,
 		autoplay:true,
-		autoplayTimeout:220000,
+		autoplayTimeout:20000,
 		smartSpeed: 1000,
 	});
 
